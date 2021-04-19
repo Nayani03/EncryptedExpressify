@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "744795056528",
+    "project_id": "e2ee-64711",
+    "storage_bucket": "e2ee-64711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744795056528:android:94a7d002020b7a209c2b15",
+        "android_client_info": {
+          "package_name": "com.enigma.encryptedexpressify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744795056528-no1qoo3hdncnus11917f0o8he18v3lkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enigma.encryptedexpressify",
+            "certificate_hash": "63732cec657ba4573d25be1dacd485e1e6383989"
+          }
+        },
+        {
+          "client_id": "744795056528-u98go1eib6vimhfc54uk4uue5cdjgiih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUXm1gkfyweTCusz1fviqLe6lnALHaYsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744795056528-u98go1eib6vimhfc54uk4uue5cdjgiih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
